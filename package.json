@@ -1,0 +1,26 @@
+{
+  "name": "javascript_dyma",
+  "version": "1.0.0",
+  "description": "Cours Dyma Javascript",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florence-Navet/Javascript_Dyma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florence-Navet/Javascript_Dyma/issues"
+  },
+  "homepage": "https://github.com/Florence-Navet/Javascript_Dyma#readme",
+  "devDependencies": {
+    "vite": "^7.0.6"
+  }
+}
