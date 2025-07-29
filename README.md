@@ -112,3 +112,5 @@ Vanilla
 JavaScript
 code vite-project/
 ```
+
+---
