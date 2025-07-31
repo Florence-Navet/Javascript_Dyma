@@ -40,7 +40,7 @@ npm init -y
 ```
 
 ```bash
-npm run vite
+npm start
 ```
 
 3. installation Vite
